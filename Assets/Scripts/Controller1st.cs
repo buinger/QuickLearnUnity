@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Controller1th : MonoBehaviour
+public class Controller1st : MonoBehaviour
 {
     public Transform face;
 
